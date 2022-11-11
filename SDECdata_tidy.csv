@@ -1,0 +1,1259 @@
+Identifier,Age,gender,admittance.method,number.of.visits,Length.of.Stay..LOS.,speciality,DISCHARGE.WARD,discharged
+1,83,F,GP,1,0,resp,0,home
+2,35,M,GP,1,0,acute med,0,home
+2,35,M,GP,1,0,acute med,0,home
+3,67,M,other,1,1,gen surg,ward 8,home
+4,73,M,GP,1,0,resp,0,home
+4,73,M,GP,1,0,acute med,0,home
+4,73,M,GP,1,0,acute med,0,home
+4,73,M,GP,1,0,gen surg,0,home
+5,68,F,casualty,1,7,gen surg,TRANSFER LOUNGE,home
+6,37,M,casualty,1,0,acute med,0,home
+7,81,F,GP,1,0,vascular,0,home
+8,43,M,casualty,1,0,gen surg,ward 6,home
+9,63,F,GP,1,0,gen surg,0,home
+10,64,F,casualty,1,1,gen surg,ward 5,home
+11,88,F,Clinic,1,7,vascular,ward 3,home
+12,54,M,casualty,1,0,acute med,0,home
+12,54,M,casualty,1,0,acute med,0,home
+13,47,M,casualty,1,0,urology,0,home
+14,72,F,other,1,0,gen surg,0,home
+14,72,F,casualty,1,0,gen surg,0,home
+14,72,F,GP,1,0,gen surg,0,home
+15,22,F,casualty,1,0,gen surg,ward 10,home
+16,49,M,GP,1,0,gen surg,0,home
+16,49,M,casualty,1,0,gen surg,0,home
+17,52,F,casualty,1,0,acute med,TRANSFER LOUNGE,home
+18,24,F,casualty,1,0,gen surg,0,home
+19,69,M,other,1,1,resp,ward 11,home
+20,63,F,GP,1,0,resp,0,home
+21,73,M,other,1,15,vascular,ward 8,home
+22,61,F,casualty,1,1,acute med,TRANSFER LOUNGE,home
+23,76,M,GP,1,7,gen surg,TRANSFER LOUNGE,home
+24,28,F,casualty,1,0,gen surg,0,home
+25,56,M,GP,1,0,vascular,0,home
+26,81,M,Clinic,1,17,vascular,ward 3,home
+27,35,F,casualty,1,8,acute med,ward 12,home
+28,74,M,GP,1,0,vascular,0,home
+29,69,M,casualty,1,0,urology,0,home
+29,69,M,casualty,1,0,urology,0,home
+29,69,M,casualty,1,0,gen surg,0,home
+30,60,M,other,1,5,vascular,ward 8,home
+30,60,M,casualty,1,4,gen surg,ward 3,home
+31,33,F,GP,1,0,acute med,0,home
+31,33,F,other,1,0,gen surg,0,home
+32,68,M,casualty,1,0,gen surg,0,home
+33,79,M,other,1,0,vascular,0,home
+34,33,F,casualty,1,0,resp,0,home
+35,67,M,GP,1,5,vascular,ward 3,home
+36,65,M,casualty,1,0,acute med,0,home
+37,79,F,casualty,1,0,acute med,0,home
+37,79,F,casualty,1,13,gen medicine,TRANSFER LOUNGE,home
+38,36,F,GP,1,0,gen medicine,0,home
+38,36,F,GP,1,0,gen medicine,0,home
+39,43,F,casualty,1,0,gen surg,0,home
+40,20,F,GP,1,0,acute med,0,home
+41,80,M,GP,1,0,vascular,0,home
+42,53,M,GP,1,3,gastroenterology,ward 9,home
+43,23,F,GP,1,0,gen surg,0,home
+43,23,F,GP,1,0,gen surg,0,home
+44,31,M,GP,1,0,gen surg,0,home
+44,31,M,GP,1,0,gen surg,0,home
+45,79,M,other,1,0,vascular,0,home
+46,45,M,casualty,1,0,gen surg,0,home
+46,45,M,casualty,1,0,gen surg,0,home
+46,42,F,GP,1,3,gen medicine,ward 12,home
+47,61,F,casualty,1,5,gen medicine,ward 4,home
+48,68,M,Clinic,1,7,vascular,TRANSFER LOUNGE,home
+49,69,M,Clinic,1,5,vascular,surgical assessment,home
+50,54,F,GP,1,0,vascular,0,home
+51,31,M,casualty,1,0,gen surg,0,home
+52,22,F,GP,1,1,gen surg,ward 5,home
+52,22,F,GP,1,0,gen surg,0,home
+53,33,F,Domv,1,0,gen surg,0,home
+54,46,M,casualty,1,0,acute med,TRANSFER LOUNGE,home
+55,72,M,GP,1,0,acute med,0,home
+56,44,F,casualty,1,0,acute med,0,home
+57,86,F,casualty,1,14,vascular,ward 3,home
+58,27,M,casualty,1,0,gen medicine,0,home
+59,73,M,casualty,1,2,vascular,surgical assessment,home
+60,68,M,casualty,1,20,endocrinology,TRANSFER LOUNGE,home
+61,78,M,casualty,1,22,vascular,TRANSFER LOUNGE,home
+62,57,F,other,1,0,gen surg,0,home
+63,63,F,GP,1,0,gen surg,0,home
+63,63,F,casualty,1,0,gen surg,0,home
+64,75,F,casualty,1,0,acute med,0,home
+65,30,F,casualty,1,9,acute med,ward 8,home
+66,73,F,other,1,0,gen surg,0,home
+67,66,F,other,1,0,gen surg,0,home
+67,66,F,GP,1,0,gen surg,0,home
+68,45,F,GP,1,0,gen surg,0,home
+69,58,M,GP,1,0,gen surg,0,home
+70,60,F,GP,1,2,gen surg,ward 7,home
+71,86,F,GP,1,0,vascular,0,home
+72,60,F,GP,1,0,gen surg,0,home
+73,58,F,GP,1,0,gen surg,0,home
+73,58,F,GP,1,0,gen surg,0,home
+73,58,F,GP,1,0,gen surg,0,home
+74,82,F,other,1,1,vascular,ward 3,home
+75,31,M,GP,1,0,gen surg,0,home
+76,27,M,casualty,1,0,urology,0,home
+77,56,M,other,1,11,vascular,intensive therapy,home
+78,70,M,casualty,1,0,urology,ward 6,home
+79,67,M,casualty,1,0,acute med,0,home
+80,48,F,GP,1,0,acute med,0,home
+81,27,M,GP,1,0,gen surg,0,home
+82,60,M,casualty,1,0,acute med,0,home
+83,63,F,GP,1,0,gen surg,0,home
+83,63,F,GP,1,0,gen surg,0,home
+84,62,M,GP,1,3,vascular,ward 5,home
+85,56,M,casualty,1,7,vascular,TRANSFER LOUNGE,home
+86,37,M,casualty,1,0,gen surg,0,home
+87,27,F,GP,1,0,gen surg,0,home
+87,27,F,GP,1,0,gen surg,0,home
+88,59,F,other,1,0,gen surg,0,home
+88,59,F,other,1,0,gen surg,0,home
+89,72,M,GP,1,0,urology,0,home
+90,56,F,casualty,1,0,gen surg,0,home
+91,91,F,GP,1,0,gen surg,0,home
+92,50,M,casualty,1,0,gen surg,0,home
+93,36,F,casualty,1,0,gen surg,0,home
+93,36,F,GP,1,0,gen surg,0,home
+94,61,M,other,1,21,vascular,ward 3,home
+95,59,F,casualty,1,0,gen surg,0,home
+95,59,F,GP,1,0,gen surg,0,home
+96,86,M,other,1,29,vascular,ward 3,home
+97,71,F,GP,1,0,gen surg,0,home
+98,43,M,other,1,3,maxillo facial surgery,ward 5,home
+99,66,M,other,1,0,vascular,0,home
+100,29,F,GP,1,0,gen surg,0,home
+100,29,F,GP,1,0,gen surg,0,home
+101,56,F,casualty,1,3,acute med,TRANSFER LOUNGE,home
+102,73,F,GP,1,0,vascular,0,home
+103,44,M,GP,1,5,gen surg,0 or ward 8,home
+104,69,M,other,1,5,vascular,ward 3,home
+105,70,M,other,1,40,vascular,ward 3,same trust
+106,74,F,GP,1,0,gen surg,0,home
+107,62,F,casualty,1,0,vascular,0,home
+108,74,M,other,1,0,vascular,0,home
+109,50,M,casualty,1,0,gen surg,0,home
+110,52,F,casualty,1,0,gen surg,0,home
+111,51,M,GP,1,0,acute med,0,home
+112,26,F,casualty,1,0,gen surg,0,home
+113,52,M,GP,1,0,vascular,0,home
+113,52,M,GP,1,0,vascular,0,home
+113,52,M,GP,1,0,vascular,0,home
+114,61,F,GP,1,0,gen medicine,0,home
+114,61,F,GP,1,0,resp,0,home
+115,73,F,GP,1,5,vascular,ward 3,home
+115,73,F,GP,1,4,vascular,ward 5,home
+116,54,F,GP,1,0,gen surg,0,home
+117,60,M,GP,1,0,vascular,0,home
+117,60,M,GP,1,0,vascular,0,home
+118,31,M,GP,1,12,acute med,ward 4,home
+119,50,F,casualty,1,0,acute med,0,home
+120,47,M,casualty,1,2,gen surg,ward 5,home
+121,59,M,GP,1,3,gen surg,ward 5,home
+122,88,F,other,1,0,vascular,0,home
+123,86,F,casualty,1,6,gen medicine,day of surgery,home
+124,82,M,casualty,1,0,gen surg,0,home
+125,75,M,casualty,1,0,acute med,0,home
+125,54,M,casualty,1,0,gen surg,0,home
+126,52,M,GP,1,0,acute med,0,home
+127,70,F,GP,1,0,acute med,0,home
+128,71,F,GP,1,0,acute med,0,home
+128,71,F,GP,1,5,gastroenterology,TRANSFER LOUNGE,home
+129,66,M,GP,1,0,acute med,0,home
+130,66,F,casualty,1,0,acute med,0,home
+131,78,F,GP,1,0,acute med,0,home
+132,56,F,casualty,1,0,gen surg,0,home
+133,67,F,GP,1,3,gen surg,ward 14,home
+134,78,M,casualty,1,0,gen surg,TRANSFER LOUNGE,home
+135,78,F,GP,1,27,geriatric medicine,ward 4,other NHS
+136,58,F,casualty,1,0,gen surg,0,home
+137,50,M,casualty,1,0,gen medicine,0,home
+138,74,F,casualty,1,0,gen surg,0,home
+138,74,F,GP,1,0,gen surg,0,home
+139,73,F,casualty,1,0,gen surg,0,home
+140,75,F,GP,1,0,gen surg,0,home
+141,70,F,casualty,1,0,acute med,0,home
+141,70,F,casualty,1,0,acute med,0,home
+142,73,F,GP,1,0,acute med,0,home
+143,74,F,GP,1,0,gen surg,0,home
+145,78,F,GP,1,2,gen surg,surgical assessment,home
+146,84,F,GP,1,16,gen surg,nwctc,non NHS
+147,70,F,GP,1,0,acute med,0,home
+148,80,F,casualty,1,0,acute med,0,home
+149,66,F,casualty,1,0,gen surg,0,home
+150,59,F,casualty,1,0,gen surg,0,home
+151,71,F,casualty,1,0,acute med,0,home
+151,71,F,casualty,1,0,acute med,0,home
+152,71,M,casualty,1,1,acute med,TRANSFER LOUNGE,home
+153,49,M,casualty,1,0,urology,0,home
+154,66,M,GP,1,0,acute med,0,home
+155,53,M,casualty,1,43,gastroenterology,ward 4,home
+156,74,F,GP,1,0,gen surg,0,home
+157,65,F,casualty,1,0,gen surg,0,home
+158,65,F,GP,1,0,gen medicine,0,home
+159,62,F,casualty,1,0,gen surg,0,home
+159,62,F,GP,1,0,gen surg,0,home
+160,70,M,other,1,6,gen surg,ward 3,home
+161,64,F,GP,1,2,gen surg,TRANSFER LOUNGE,home
+162,55,F,GP,1,0,acute med,0,home
+163,76,F,other,1,0,gen surg,0,home
+164,69,M,GP,1,0,gen surg,0,home
+165,42,F,GP,1,0,acute med,0,home
+166,60,M,casualty,1,0,acute med,0,home
+167,83,M,GP,1,2,gen surg,TRANSFER LOUNGE,home
+168,89,F,casualty,1,0,acute med,0,home
+169,42,F,GP,1,1,gen medicine,day of surgery,home
+170,46,M,GP,1,4,gen surg,ward 5,home
+171,74,M,GP,1,3,gen surg,surgical assessment,home
+171,74,M,GP,1,0,gen surg,0,home
+171,74,M,GP,1,0,gen surg,0,home
+172,69,M,casualty,1,8,vascular,ward 3,home
+172,69,M,casualty,1,0,vascular,0,home
+173,83,M,other,1,0,acute med,0,home
+173,83,M,other,1,0,acute med,0,home
+174,52,F,casualty,1,0,gen surg,0,home
+175,91,M,GP,1,16,gen medicine,day of surgery,home
+175,91,M,GP,1,2,gastroenterology,ward 4,non NHS
+176,61,M,casualty,1,0,acute med,0,home
+177,66,M,casualty,1,3,urology,TRANSFER LOUNGE,home
+178,84,M,GP,1,0,gen surg,0,home
+179,79,M,GP,1,0,gen surg,0,home
+179,79,M,GP,1,0,gen surg,0,home
+180,62,F,GP,1,5,gen surg,ward 3,home
+181,88,F,other,1,0,acute med,0,home
+182,85,F,GP,1,0,gen medicine,0,home
+182,85,F,GP,1,0,acute med,0,home
+182,85,F,GP,1,0,acute med,0,home
+183,72,F,GP,1,0,gen surg,0,home
+184,84,M,GP,1,0,gen surg,0,home
+184,84,M,GP,1,0,gen surg,0,home
+185,46,F,casualty,1,6,acute med,ward 12,home
+186,52,M,GP,1,0,acute med,0,home
+187,51,F,other,1,0,gen surg,0,home
+188,59,F,other,1,21,gastroenterology,TRANSFER LOUNGE,home
+189,90,F,casualty,1,0,acute med,0,home
+190,73,F,casualty,1,0,gen surg,0,home
+191,49,M,other,1,3,acute med,acute medical unit,home
+192,56,M,casualty,1,0,gen surg,0,home
+193,91,M,casualty,1,3,urology,ward 5,home
+194,77,F,GP,1,0,acute med,0,home
+195,63,F,casualty,1,3,gen surg,ward 8,home
+196,66,F,casualty,1,0,acute med,0,home
+197,72,F,casualty,1,2,urology,0,home
+198,42,M,casualty,1,0,gen medicine,0,home
+199,60,F,other,1,0,acute med,0,home
+199,60,F,casualty,1,0,acute med,0,home
+200,82,M,other,1,0,gen surg,0,home
+201,80,M,casualty,1,2,orthopaedics,surgical assessment,home
+202,76,M,GP,1,21,gen surg,intensive therapy,died
+203,51,F,GP,1,0,gen medicine,0,home
+204,82,F,casualty,1,72,acute med,geriatric med,home
+205,45,F,GP,1,2,gen surg,ward 8,home
+206,64,M,GP,1,0,gen surg,0,home
+207,70,M,GP,1,10,acute med,ward 9,home
+208,76,M,other,1,0,vascular,0,home
+208,76,M,other,1,0,vascular,0,home
+209,40,F,casualty,1,0,acute med,0,home
+210,59,F,GP,1,6,gen surg,ward 5,home
+211,51,F,other,1,0,urology,0,home
+211,51,F,GP,1,0,urology,0,home
+212,58,F,GP,1,0,acute med,0,home
+212,58,F,other,1,1,geriatric medicine,ward 14,home
+213,76,M,casualty,1,0,urology,0,home
+213,76,M,casualty,1,0,urology,0,home
+214,55,M,casualty,1,0,gen surg,0,home
+215,67,M,GP,1,0,acute med,0,home
+216,45,M,GP,1,0,urology,0,home
+217,80,F,casualty,1,2,acute med,ward 8,home
+218,49,F,casualty,1,0,gen surg,0,home
+219,51,F,GP,1,0,resp,0,home
+219,51,F,GP,1,0,acute med,0,home
+220,86,M,GP,1,4,geriatric medicine,ward 14,home
+221,47,M,GP,1,5,acute med,ward 4,home
+222,72,M,GP,1,0,acute med,0,home
+223,71,M,casualty,1,0,gen surg,0,home
+224,72,F,GP,1,1,gen medicine,ED observation,home
+225,61,F,other,1,0,gen surg,0,home
+226,47,F,GP,1,0,gen surg,0,home
+226,47,F,other,1,0,gen surg,0,home
+227,55,M,casualty,1,1,gen surg,TRANSFER LOUNGE,home
+228,73,F,GP,1,0,gen surg,0,home
+229,57,F,GP,1,0,gen surg,0,home
+230,66,F,GP,1,0,gen surg,0,home
+231,49,M,GP,1,0,gen surg,0,home
+231,49,M,GP,1,0,gen surg,0,home
+232,74,M,casualty,1,1,gen surg,ward 8,home
+232,74,M,GP,1,0,gen surg,0,home
+233,61,F,GP,1,0,gen surg,0,home
+234,70,M,casualty,1,1,acute med,0,home
+235,62,M,GP,1,0,acute med,0,home
+236,82,F,GP,1,0,gen surg,0,home
+237,68,F,GP,1,4,acute med,ward 5,home
+237,68,F,casualty,1,0,acute med,0,home
+237,68,F,GP,1,4,acute med,ward 5,home
+238,60,M,GP,1,0,gen surg,0,home
+238,60,M,GP,1,0,gen surg,0,home
+239,78,M,GP,1,3,urology,surgical assessment,home
+240,89,F,GP,1,0,acute med,TRANSFER LOUNGE,home
+240,89,F,GP,1,0,acute med,TRANSFER LOUNGE,home
+241,52,M,GP,1,2,urology,TRANSFER LOUNGE,home
+242,83,F,GP,1,11,acute med,ward 5,home
+243,58,M,GP,1,0,gen surg,0,home
+244,84,F,other,1,0,gen surg,0,home
+245,81,M,casualty,1,24,geriatric medicine,ward 1,home
+246,50,F,casualty,1,0,gen surg,0,home
+247,69,M,GP,1,4,gastroenterology,ward 4,home
+248,74,M,Clinic,1,0,acute med,0,home
+249,67,F,casualty,1,6,vascular,day of surgery,home
+250,67,F,casualty,1,0,resp,0,home
+251,61,F,other,1,0,acute med,0,home
+251,61,F,other,1,0,acute med,0,home
+251,61,F,casualty,1,0,acute med,0,home
+252,75,M,GP,1,0,acute med,0,home
+253,76,M,GP,1,4,gen surg,ward 7,home
+253,76,M,GP,1,0,gen surg,0,home
+254,39,F,GP,1,0,gen medicine,0,home
+255,78,M,casualty,1,3,gen medicine,ward 11,home
+255,78,M,GP,1,1,acute med,acute medical unit,home
+256,79,M,casualty,1,0,acute med,0,home
+257,52,F,casualty,1,0,gen surg,0,home
+258,68,F,GP,1,6,gastroenterology,ward 5,home
+259,42,F,casualty,1,0,gen surg,0,home
+260,62,M,casualty,1,5,resp,ward 11,home
+261,86,M,casualty,1,15,urology,ward 5,home
+262,69,M,casualty,1,0,acute med,0,home
+263,52,M,GP,1,2,urology,ward 5,home
+264,72,M,casualty,1,1,ENT,same day ENT,home
+265,44,F,casualty,1,0,gen surg,0,home
+266,76,F,GP,1,0,acute med,0,home
+267,47,M,casualty,1,0,gen surg,0,home
+267,47,M,casualty,1,0,gen surg,0,home
+268,70,F,GP,1,0,acute med,0,home
+269,38,M,casualty,1,0,gen surg,0,home
+270,89,F,other,1,0,acute med,0,home
+271,57,M,Clinic,1,0,acute med,0,home
+272,61,F,GP,1,3,acute med,day of surgery,home
+273,47,F,casualty,1,4,acute med,day of surgery,home
+274,65,M,other,1,0,vascular,0,home
+275,89,M,casualty,1,17,endocrinology,ward 12,home
+276,46,F,GP,1,0,gen surg,ward 8,home
+276,46,F,GP,1,0,gen surg,ward 8,home
+277,76,F,casualty,1,6,resp,ward 4,home
+278,61,F,other,1,0,gen surg,0,home
+278,61,F,casualty,1,1,gen surg,ward 3,home
+279,70,M,casualty,1,1,acute med,acute medical unit,home
+279,70,M,GP,1,4,acute med,ward 4,home
+280,47,F,casualty,1,0,gen surg,0,home
+281,49,F,casualty,1,0,gen surg,0,home
+282,49,F,GP,1,1,gen surg,0,home
+282,49,F,GP,1,0,gen surg,0,home
+283,62,F,casualty,1,0,gen surg,0,home
+284,66,M,casualty,1,0,gen surg,0,home
+284,66,M,casualty,1,0,gen surg,0,home
+285,71,F,casualty,1,0,acute med,0,home
+286,55,M,casualty,1,0,acute med,0,home
+287,39,M,casualty,1,0,acute med,0,home
+288,76,M,GP,1,0,gen surg,0,home
+289,48,F,GP,1,0,gen surg,0,home
+289,48,F,GP,1,0,gen surg,0,home
+290,83,F,casualty,1,17,gen surg,ward 3,other NHS
+291,57,F,casualty,1,0,gen surg,0,home
+292,72,M,casualty,1,0,gen medicine,0,home
+293,88,F,casualty,1,0,acute med,0,home
+293,88,F,casualty,1,0,acute med,0,home
+294,59,F,GP,1,0,acute med,0,home
+294,59,F,GP,1,0,acute med,0,home
+295,38,F,casualty,1,0,gen surg,0,home
+296,90,M,other,1,0,urology,0,home
+297,82,M,GP,1,2,gen surg,surgical assessment,home
+298,37,F,GP,1,0,gen surg,0,home
+298,37,F,GP,1,0,gen surg,0,home
+298,37,F,GP,1,0,gen surg,0,home
+298,37,F,casualty,1,0,gen surg,0,home
+298,37,F,other,1,0,gen surg,0,home
+298,37,F,other,1,0,gen surg,0,home
+299,73,F,casualty,1,0,gen surg,0,home
+299,73,F,other,1,1,gen surg,ward 8,home
+300,59,F,other,1,0,resp,0,home
+301,66,F,GP,1,0,urology,0,home
+302,51,M,elective,1,1,resp diagnostics,ward 11,home
+303,62,M,casualty,1,0,gen surg,0,home
+303,62,M,GP,1,0,gen surg,0,home
+304,49,M,other,1,0,gen surg,0,home
+304,49,M,casualty,1,0,gen surg,0,same trust
+305,78,M,other,1,0,gen surg,0,home
+305,78,M,other,1,0,gen surg,0,home
+305,78,M,other,1,0,gen surg,0,home
+305,78,M,GP,1,0,gen surg,0,home
+306,82,F,GP,1,0,gen surg,0,home
+307,67,M,casualty,1,0,gen surg,0,home
+308,79,F,casualty,1,4,acute med,day of surgery,home
+309,28,F,other,1,0,gen surg,0,home
+310,50,F,GP,1,0,gen surg,0,home
+310,50,F,other,1,0,gen surg,0,home
+311,79,M,GP,1,0,vascular,0,home
+312,83,F,GP,1,0,gen surg,0,home
+313,49,F,casualty,1,0,gen surg,0,home
+314,72,F,GP,1,0,resp,0,home
+315,67,M,casualty,1,0,acute med,0,home
+316,47,F,GP,1,0,gen surg,0,home
+317,75,M,casualty,1,0,acute med,0,home
+318,64,M,GP,1,2,geriatric medicine,ward 5,home
+319,52,M,GP,1,0,acute med,0,home
+320,69,M,other,1,0,vascular,0,home
+321,83,M,casualty,1,1,acute med,0,home
+322,86,F,casualty,1,0,acute med,0,home
+323,77,M,GP,1,1,gen surg,day of surgery,home
+324,73,M,other,1,2,acute med,acute medical unit,home
+325,72,M,GP,1,3,gen surg,day of surgery,home
+325,72,M,other,1,0,gen surg,0,home
+326,49,M,casualty,1,0,gen surg,0,home
+327,92,F,casualty,1,3,acute med,TRANSFER LOUNGE,home
+328,65,M,GP,1,0,gen surg,0,home
+329,67,M,casualty,1,7,gen medicine,ward 9,home
+330,62,M,GP,1,0,urology,0,home
+330,62,M,casualty,1,0,gen medicine,0,home
+331,35,F,GP,1,0,gen surg,0,home
+331,35,F,other,1,0,gen surg,0,home
+332,82,F,casualty,1,0,gen medicine,0,home
+332,82,F,other,1,0,acute med,0,home
+333,43,F,GP,1,4,gen surg,ward 8,home
+334,84,F,casualty,1,14,acute med,TRANSFER LOUNGE,home
+335,77,F,Domv,1,0,gen surg,0,home
+335,77,F,Clinic,1,0,gen surg,0,home
+335,77,F,casualty,1,26,geriatric medicine,ward 8,home
+336,35,F,GP,1,0,acute med,0,home
+336,35,F,GP,1,0,gen medicine,0,home
+337,71,F,GP,1,0,gen surg,0,home
+338,58,M,GP,1,0,gen surg,0,home
+339,88,F,casualty,1,2,gen medicine,coronary can,home
+340,79,F,casualty,1,2,vascular,acute medical unit,home
+341,73,F,casualty,1,0,acute med,0,home
+342,80,M,other,1,0,acute med,0,home
+342,80,M,other,1,0,acute med,0,home
+342,80,M,GP,1,0,acute med,0,home
+342,80,M,GP,1,0,acute med,0,home
+342,80,M,GP,1,0,acute med,0,home
+342,80,M,casualty,1,0,acute med,0,home
+343,75,M,GP,1,0,gen medicine,0,home
+344,70,M,GP,1,6,geriatric medicine,ward 2a,home
+345,37,F,GP,1,0,gen surg,0,home
+345,37,F,GP,1,0,gen surg,0,home
+346,68,F,GP,1,7,acute med,TRANSFER LOUNGE,home
+347,68,M,GP,1,0,acute med,0,home
+347,68,M,GP,1,0,acute med,0,home
+347,68,M,other,1,0,acute med,0,home
+348,38,M,GP,1,0,gen surg,0,home
+348,38,M,other,1,0,gen surg,0,home
+349,43,F,other,1,0,gen surg,0,home
+350,61,M,GP,1,0,gen medicine,0,home
+351,73,M,GP,1,0,acute med,0,home
+352,48,M,casualty,1,0,gen surg,0,home
+353,51,M,GP,1,0,gen surg,0,home
+354,56,F,casualty,1,0,acute med,0,home
+355,59,F,GP,1,5,acute med,coronary can,home
+356,78,M,casualty,1,6,geriatric medicine,ward 14,home
+357,80,F,casualty,1,5,gen medicine,ward 4,home
+358,87,M,casualty,1,0,gen surg,0,home
+359,38,F,GP,1,0,gen surg,0,home
+360,89,M,GP,1,0,acute med,0,home
+361,53,F,GP,1,0,acute med,0,home
+362,63,F,casualty,1,0,acute med,0,home
+363,46,M,GP,1,0,gen surg,0,home
+363,46,M,other,1,0,gen surg,0,home
+364,42,F,GP,1,0,urology,0,home
+365,44,F,casualty,1,5,gastroenterology,ward 8,home
+366,76,F,casualty,1,0,urology,0,home
+366,76,F,casualty,1,0,gen surg,0,home
+366,76,F,other,1,3,urology,ward 5,home
+366,76,F,other,1,3,urology,ward 5,home
+367,82,M,casualty,1,10,acute med,TRANSFER LOUNGE,home
+368,68,F,GP,1,0,gen surg,0,home
+369,71,F,casualty,1,0,gen medicine,0,home
+369,71,F,GP,1,0,acute med,0,home
+370,73,F,GP,1,10,acute med,ward 9,home
+371,56,M,casualty,1,0,gen surg,0,home
+372,76,M,casualty,1,2,gen surg,ward 8,home
+372,76,M,GP,1,0,gen surg,0,home
+372,76,M,GP,1,0,gen surg,0,home
+372,76,M,casualty,1,0,gen surg,0,home
+373,50,M,casualty,1,0,urology,0,home
+373,50,M,other,1,1,gen surg,surgical assessment,home
+374,89,F,casualty,1,0,acute med,0,home
+375,33,F,GP,1,0,gen surg,0,home
+376,56,F,GP,1,0,gen surg,0,home
+377,44,F,other,1,0,gen surg,0,home
+378,44,M,casualty,1,0,gen surg,0,home
+379,34,F,casualty,1,0,gen surg,0,home
+380,80,F,casualty,1,0,acute med,0,home
+381,66,F,GP,1,1,gen surg,ward 5,home
+381,66,F,GP,1,2,gen surg,surgical assessment,home
+381,66,F,GP,1,3,gen surg,ward 5,home
+382,52,F,casualty,1,0,acute med,0,home
+382,52,F,other,1,0,acute med,0,home
+383,63,M,casualty,1,1,acute med,0,home
+384,51,F,GP,1,4,gen surg,celyn ward,home
+385,47,M,casualty,1,0,gen surg,0,home
+385,47,M,other,1,0,gen surg,0,home
+386,76,M,GP,1,0,gen surg,0,home
+386,76,M,other,1,0,gen surg,0,home
+387,38,M,GP,1,1,acute med,acute medical unit,home
+388,39,M,casualty,1,0,gen surg,0,home
+388,39,M,other,1,0,gen surg,0,home
+389,60,F,casualty,1,0,urology,0,home
+389,60,F,GP,1,0,urology,0,home
+390,43,F,other,1,0,gen surg,0,home
+390,43,F,casualty,1,0,gen medicine,0,home
+390,43,F,GP,1,0,gen surg,0,home
+391,68,F,GP,1,1,resp,ward 11,home
+392,66,F,casualty,1,1,gynaecology,celyn ward,home
+393,65,M,casualty,1,0,gen surg,0,home
+393,65,M,GP,1,0,gen surg,0,home
+394,53,F,GP,1,0,gen surg,0,home
+395,53,F,GP,1,0,resp,0,home
+396,75,F,other,1,0,gen surg,0,home
+396,75,F,other,1,0,gen surg,0,home
+397,70,F,GP,1,5,acute med,ward 5,home
+398,80,M,GP,1,8,acute med,TRANSFER LOUNGE,home
+399,34,F,GP,1,0,gen medicine,0,home
+400,81,M,casualty,1,0,acute med,TRANSFER LOUNGE,home
+401,42,F,GP,1,0,gen surg,0,home
+402,57,F,casualty,1,3,gen surg,surgical assessment,home
+402,57,F,casualty,1,0,gen surg,0,home
+403,50,M,GP,1,0,gen medicine,0,home
+404,63,M,casualty,1,0,resp,0,home
+405,42,M,GP,1,0,gen surg,0,home
+405,42,M,casualty,1,0,urology,0,home
+406,70,M,GP,1,7,gen medicine,ward 4,home
+407,52,M,casualty,1,1,gen surg,TRANSFER LOUNGE,home
+408,55,M,casualty,1,1,urology,acute medical unit,home
+409,61,F,GP,1,0,acute med,0,home
+409,61,F,GP,1,0,acute med,0,home
+409,61,F,casualty,1,0,gen surg,0,home
+410,85,M,GP,1,0,gen surg,0,home
+411,50,M,GP,1,0,gen medicine,0,home
+412,65,M,GP,1,0,gen surg,0,home
+413,77,M,casualty,1,0,urology,0,same trust
+414,41,F,casualty,1,0,gen surg,0,home
+415,33,F,GP,1,0,gen surg,0,home
+416,40,M,GP,1,0,gen surg,0,home
+417,61,F,casualty,1,0,gen surg,0,home
+418,50,F,Domv,1,0,gen medicine,0,home
+419,47,M,GP,1,0,gen surg,0,home
+420,64,M,casualty,1,1,gen medicine,0,home
+421,86,M,casualty,1,0,gen surg,0,home
+422,52,F,GP,1,0,acute med,0,home
+423,87,F,casualty,1,0,acute med,0,home
+424,31,F,casualty,1,0,urology,0,home
+425,49,F,GP,1,0,gen surg,0,home
+425,49,F,other,1,0,gen surg,0,home
+426,50,F,GP,1,1,gen surg,0,home
+427,59,F,GP,1,0,acute med,0,home
+428,68,M,GP,1,0,gen surg,0,home
+428,68,M,GP,1,0,gen surg,0,home
+429,31,F,casualty,1,0,acute med,day of surgery,home
+430,75,M,casualty,1,6,gen surg,ward 8,home
+431,73,M,casualty,1,0,gen medicine,0,home
+431,73,M,GP,1,0,acute med,0,home
+432,54,M,casualty,1,0,urology,0,home
+433,47,F,GP,1,0,acute med,0,home
+434,68,F,GP,1,0,gen surg,0,home
+435,31,M,casualty,1,1,acute med,ward 8,home
+436,83,F,other,1,0,vascular,0,home
+436,83,F,GP,1,8,gen surg,ward 3,home
+437,31,F,casualty,1,0,gen surg,0,home
+438,38,F,casualty,1,0,gen surg,0,home
+439,46,M,GP,1,0,acute med,0,home
+440,48,M,casualty,1,1,acute med,0,home
+441,45,F,GP,1,0,gen surg,0,home
+442,88,F,casualty,1,13,gen medicine,ward 4,same trust
+443,74,F,GP,1,3,acute med,surgical assessment,home
+444,67,M,casualty,1,0,acute med,0,home
+445,90,F,casualty,1,7,acute med,0,home
+446,58,F,casualty,1,3,gen surg,ward 8,home
+447,60,F,casualty,1,7,gastroenterology,ward 9,home
+448,33,F,casualty,1,0,gen surg,0,home
+449,56,F,casualty,1,0,gen surg,0,home
+449,56,F,other,1,0,gen surg,0,home
+450,81,M,GP,1,0,gen surg,0,home
+451,50,F,GP,1,0,acute med,0,home
+452,63,F,casualty,1,5,gen surg,ward 5,home
+452,63,F,other,1,0,gen surg,0,home
+453,53,F,casualty,1,0,gen surg,0,home
+454,80,M,other,1,0,gen surg,0,other NHS
+455,77,F,GP,1,0,acute med,0,home
+456,76,F,casualty,1,0,gen surg,0,home
+456,76,F,Clinic,1,0,resp,0,home
+457,47,F,casualty,1,0,gen surg,0,home
+457,47,F,other,1,0,gen surg,0,home
+458,41,F,GP,1,0,acute med,0,home
+459,49,M,GP,1,0,gen medicine,0,home
+460,88,M,casualty,1,3,acute med,0,home
+461,72,M,GP,1,0,gen surg,0,home
+461,72,M,GP,1,6,gen surg,ward 8,home
+462,44,M,other,1,0,gen surg,0,home
+462,44,M,casualty,1,0,gen surg,0,home
+463,31,F,GP,1,0,gen medicine,0,home
+464,46,M,GP,1,2,acute med,ward 4,home
+465,79,F,other,1,0,gen surg,0,home
+466,52,F,casualty,1,0,acute med,0,home
+467,79,F,casualty,1,0,gen medicine,0,home
+468,79,F,casualty,1,9,gen surg,intensive therapy,home
+469,54,M,GP,1,4,gen surg,ward 5,home
+470,44,F,GP,1,0,urology,0,home
+471,49,M,GP,1,4,urology,day of surgery,home
+472,93,F,casualty,1,0,acute med,TRANSFER LOUNGE,home
+473,59,F,GP,1,0,vascular,0,home
+473,59,F,other,1,0,vascular,0,home
+473,59,F,other,1,0,vascular,0,home
+474,91,M,GP,1,0,acute med,0,home
+475,87,M,other,1,5,gen surg,intensive therapy,home
+476,50,M,GP,1,0,gen surg,0,home
+477,81,M,casualty,1,19,gen medicine,ward 9,same trust
+478,77,F,casualty,1,0,acute med,0,home
+479,40,F,GP,1,7,urology,ward 5,home
+480,78,M,GP,1,6,vascular,ward 3,home
+481,35,M,other,1,0,gen surg,0,home
+482,29,F,casualty,1,0,gen surg,0,home
+482,29,F,casualty,1,3,gen surg,celyn ward,home
+483,83,M,GP,1,0,vascular,0,home
+484,53,F,GP,1,0,gen surg,0,home
+484,53,F,other,1,0,gen surg,0,home
+485,76,M,casualty,1,0,acute med,0,home
+486,35,F,other,1,1,gen surg,TRANSFER LOUNGE,home
+486,35,F,other,1,1,urology,0,home
+487,64,M,casualty,1,2,resp,ward 2a,home
+488,74,M,GP,1,1,acute med,0,home
+489,37,F,GP,1,0,acute med,0,home
+489,37,F,casualty,1,0,acute med,0,home
+490,39,M,casualty,1,0,urology,0,home
+491,28,F,GP,1,1,urology,0,home
+492,72,M,casualty,1,0,acute med,0,home
+493,70,M,casualty,1,2,acute med,0,home
+494,28,F,GP,1,4,gastroenterology,ward 9,home
+495,63,M,GP,1,3,endocrinology,ward 8,home
+496,28,M,casualty,1,0,gen surg,0,home
+497,28,F,GP,1,0,acute med,0,home
+497,28,F,other,1,0,acute med,0,home
+498,59,F,other,1,0,vascular,0,home
+499,94,M,GP,1,0,acute med,0,home
+500,28,M,GP,1,0,gen surg,0,home
+501,28,F,GP,1,0,gen surg,0,home
+502,28,F,casualty,1,0,acute med,0,home
+503,57,F,GP,1,0,acute med,0,home
+504,80,F,GP,1,0,acute med,TRANSFER LOUNGE,home
+505,47,F,casualty,1,0,acute med,0,home
+506,68,M,other,1,0,vascular,0,home
+507,40,M,GP,1,0,acute med,0,home
+508,50,F,GP,1,0,gen surg,0,home
+508,50,F,GP,1,0,gen surg,0,home
+508,50,F,other,1,1,gen surg,0,home
+509,28,F,GP,1,0,gen medicine,0,home
+510,80,M,GP,1,0,acute med,0,home
+511,28,M,GP,1,3,urology,surgical assessment,home
+512,37,M,casualty,1,0,gen surg,0,home
+512,37,M,GP,1,0,gen surg,0,home
+513,28,F,GP,1,0,gen surg,0,home
+513,28,F,GP,1,0,gen surg,0,home
+514,79,F,casualty,1,6,acute med,ward 5,home
+515,75,M,GP,1,0,gen surg,0,home
+516,39,F,GP,1,0,gen surg,0,home
+516,39,F,GP,1,0,gen surg,0,home
+517,74,M,casualty,1,8,gen surg,ward 8,home
+518,27,M,GP,1,0,gen surg,0,home
+519,27,F,GP,1,0,gen surg,0,home
+520,73,M,GP,1,4,gen surg,0,home
+521,37,F,GP,1,0,gen surg,0,home
+522,27,M,casualty,1,0,gen surg,0,home
+523,54,F,casualty,1,0,gen surg,0,home
+524,54,M,GP,1,0,gen surg,0,home
+524,54,M,other,1,0,gen surg,0,home
+525,61,F,GP,1,0,acute med,0,home
+525,61,F,GP,1,0,acute med,0,home
+526,42,F,casualty,1,0,gen surg,0,home
+526,42,F,casualty,1,0,gen surg,0,home
+526,42,F,GP,1,0,gen surg,0,home
+526,42,F,GP,1,0,gen surg,0,home
+527,30,M,GP,1,5,gastroenterology,day of surgery,home
+528,27,F,GP,1,0,acute med,0,home
+529,79,M,GP,1,0,gen surg,0,home
+530,63,F,casualty,1,0,gen surg,0,home
+531,69,M,GP,1,0,vascular,0,home
+532,77,F,casualty,1,14,gen medicine,ward 8,home
+533,29,F,casualty,1,0,gen surg,0,home
+534,48,F,GP,1,0,acute med,0,home
+534,48,F,GP,1,0,acute med,0,home
+535,27,F,casualty,1,0,gen surg,0,home
+536,75,F,GP,1,0,acute med,0,home
+537,27,F,other,1,0,gen surg,0,home
+538,27,M,GP,1,0,gen surg,0,home
+539,76,M,other,1,0,acute med,0,home
+540,27,F,GP,1,0,gen surg,0,home
+541,67,M,GP,1,0,vascular,0,home
+542,27,F,casualty,1,0,gen surg,0,home
+543,27,F,Clinic,1,11,endocrinology,ward 12,home
+544,71,M,casualty,1,0,gen surg,0,home
+545,41,F,GP,1,0,resp,0,home
+546,39,M,GP,1,0,acute med,0,home
+546,39,M,GP,1,0,acute med,0,home
+547,30,F,other,1,0,acute med,0,home
+547,30,F,other,1,0,acute med,0,home
+548,26,M,casualty,1,0,urology,0,home
+549,26,F,other,1,0,gen surg,0,home
+550,80,F,GP,1,0,acute med,0,home
+551,65,F,GP,1,35,vascular,ward 3,home
+552,70,M,casualty,1,20,vascular,ward 3,home
+553,65,F,GP,1,0,acute med,0,home
+554,70,M,casualty,1,0,gen surg,0,home
+555,55,F,casualty,1,0,acute med,0,home
+555,55,F,other,1,0,acute med,0,home
+556,26,M,GP,1,0,gen surg,0,home
+557,35,F,casualty,1,0,acute med,0,home
+558,49,F,GP,1,0,urology,0,home
+558,49,F,casualty,1,4,acute med,intensive therapy,other NHS
+559,89,M,casualty,1,8,geriatric medicine,ward 14,other NHS
+560,78,M,casualty,1,7,geriatric medicine,ward 2a,died
+561,54,F,casualty,1,0,gen surg,0,home
+562,35,M,GP,1,0,resp,0,home
+563,26,M,GP,1,6,acute med,ward 12,home
+564,34,F,GP,1,0,acute med,0,home
+564,34,F,GP,1,0,acute med,0,home
+565,26,M,casualty,1,0,urology,urology diagr,home
+566,83,M,casualty,1,2,urology,TRANSFER LOUNGE,home
+567,74,F,other,1,0,acute med,0,home
+567,74,F,casualty,1,0,acute med,0,home
+568,25,M,GP,1,0,acute med,0,home
+568,25,M,GP,1,0,acute med,0,home
+569,36,F,GP,1,0,gen surg,0,home
+569,36,F,other,1,0,gen surg,0,home
+570,71,M,GP,1,0,gen surg,0,home
+571,50,F,casualty,1,0,acute med,0,home
+571,50,F,GP,1,0,gen surg,0,home
+572,48,M,casualty,1,1,resp,0,non NHS
+573,25,F,GP,1,0,gen surg,0,home
+573,25,F,other,1,1,gen surg,ward 5,home
+574,82,M,casualty,1,0,gen medicine,TRANSFER LOUNGE,home
+575,60,M,GP,1,0,acute med,0,home
+576,25,F,other,1,0,acute med,0,home
+577,34,F,GP,1,0,gen surg,0,home
+577,34,F,other,1,0,vascular,0,home
+578,25,M,casualty,1,0,acute med,0,home
+579,73,M,GP,1,0,gen surg,0,home
+580,43,F,casualty,1,0,gen surg,0,home
+581,54,F,GP,1,2,gen surg,ward 8,home
+582,29,M,GP,1,0,acute med,0,home
+582,29,M,other,1,0,acute med,0,home
+583,56,M,casualty,1,5,urology,TRANSFER LOUNGE,home
+584,51,M,GP,1,6,acute med,TRANSFER LOUNGE,home
+585,32,M,casualty,1,6,acute med,day of surgery,home
+586,31,F,casualty,1,0,gen surg,0,home
+587,74,M,other,1,2,acute med,ward 4,home
+588,50,F,GP,1,0,gen surg,0,home
+588,50,F,GP,1,0,gen surg,0,home
+589,53,F,casualty,1,1,gen surg,ward 8,home
+590,83,M,GP,1,0,acute med,0,home
+591,62,F,casualty,1,0,gen surg,0,home
+592,59,M,casualty,1,0,gastro endoscopy,0,home
+593,83,M,casualty,1,0,urology,0,home
+594,88,M,GP,1,5,acute med,ward 5,home
+595,39,M,casualty,1,0,gen surg,0,home
+596,82,F,GP,1,4,endocrinology,ward 12,home
+597,77,M,GP,1,0,urology,0,home
+598,30,F,casualty,1,0,gen surg,0,home
+599,35,F,casualty,1,0,gen medicine,0,home
+600,62,M,other,1,7,gen surg,ward 8,home
+601,50,M,GP,1,1,acute med,acute medical unit,home
+602,27,M,GP,1,2,gen surg,surgical assessment,home
+603,66,F,other,1,0,gen medicine,0,home
+604,77,M,casualty,1,0,gen surg,0,home
+605,37,F,GP,1,0,acute med,0,home
+606,30,F,casualty,1,0,breast surgery,0,home
+607,81,M,GP,1,0,gen surg,0,home
+608,60,M,GP,1,0,gen surg,0,home
+608,60,M,other,1,0,gen surg,0,home
+609,40,M,GP,1,0,acute med,0,home
+609,40,M,GP,1,0,acute med,0,home
+610,24,F,casualty,1,0,acute med,0,home
+611,77,M,casualty,1,0,resp,0,home
+612,26,F,casualty,1,6,acute med,TRANSFER LOUNGE,home
+612,26,F,casualty,1,3,acute med,ward 9,home
+613,83,F,casualty,1,0,gen surg,0,home
+613,83,F,other,1,0,gen surg,0,home
+613,83,F,other,1,0,acute med,0,home
+614,36,F,GP,1,0,acute med,0,home
+615,81,M,other,1,0,gen surg,0,home
+616,79,F,GP,1,20,gastro endoscopy,ward 9,home
+617,24,F,GP,1,0,gen medicine,0,home
+618,23,M,casualty,1,0,urology,0,home
+618,23,M,other,1,1,gen surg,0,home
+619,28,F,other,1,0,gen surg,0,home
+620,34,M,casualty,1,0,acute med,0,home
+621,25,F,GP,1,0,gen surg,0,home
+621,25,F,casualty,1,0,gen surg,0,home
+622,79,M,GP,1,0,acute med,0,home
+623,23,M,casualty,1,0,acute med,0,home
+624,39,F,GP,1,8,acute med,day of surgery,home
+625,65,F,casualty,1,0,gen surg,0,home
+626,24,F,GP,1,0,gen surg,0,home
+626,24,F,other,1,0,gen surg,0,home
+627,23,F,GP,1,0,gen surg,0,home
+627,23,F,other,1,0,gen surg,0,home
+628,23,F,GP,1,0,gen surg,0,home
+628,23,F,other,1,0,gen surg,0,home
+628,23,F,other,1,6,gen surg,ward 8,home
+629,69,F,GP,1,0,gen surg,0,home
+629,69,F,other,1,0,gen surg,0,home
+630,35,M,casualty,1,0,gen surg,0,home
+631,25,F,GP,1,1,acute med,acute medical unit,home
+632,23,F,casualty,1,0,gen surg,0,home
+632,23,F,Domv,1,0,gen surg,0,home
+633,59,F,casualty,1,0,acute med,0,home
+634,23,M,GP,1,0,gen surg,0,home
+635,23,F,casualty,1,0,gen surg,0,home
+636,72,M,GP,1,0,acute med,0,home
+637,61,M,GP,1,3,acute med,acute medical unit,home
+638,23,F,casualty,1,0,gen surg,0,home
+639,74,F,casualty,1,0,acute med,0,home
+639,74,F,casualty,1,0,acute med,0,home
+639,74,F,other,1,0,acute med,0,home
+640,23,M,casualty,1,15,acute med,ward 8,home
+641,85,M,GP,1,14,resp,ward 12,home
+642,36,M,other,1,0,acute med,0,home
+643,77,M,casualty,1,0,gen surg,0,home
+643,77,M,GP,1,0,gen surg,0,home
+644,69,F,casualty,1,0,gen surg,0,home
+645,95,F,GP,1,0,acute med,0,home
+646,36,M,GP,1,0,acute med,0,home
+646,36,M,GP,1,0,acute med,0,home
+647,22,F,GP,1,0,gen surg,0,home
+648,22,F,GP,1,0,gen surg,0,home
+648,22,F,other,1,0,gen surg,0,home
+648,22,F,casualty,1,1,gen surg,ward 3,home
+649,83,F,GP,1,0,acute med,0,home
+650,22,F,casualty,1,10,gen medicine,TRANSFER LOUNGE,home
+651,22,F,GP,1,1,gen surg,ward 8,home
+651,22,F,GP,1,0,gen surg,0,home
+651,22,F,casualty,1,1,gen surg,celyn ward,home
+651,22,F,casualty,1,1,gen surg,celyn ward,home
+652,82,M,casualty,1,0,gen surg,0,home
+653,41,F,GP,1,0,gen surg,0,home
+653,41,F,GP,1,0,gen surg,0,home
+654,48,M,casualty,1,0,gen surg,0,home
+654,48,M,GP,1,0,gen surg,0,home
+655,67,M,GP,1,0,acute med,0,home
+656,22,F,casualty,1,0,acute med,0,home
+657,49,M,GP,1,0,gen surg,0,home
+658,31,F,GP,1,0,gen surg,0,home
+658,31,F,GP,1,0,gen surg,0,home
+659,51,M,GP,1,0,gen surg,0,home
+660,83,M,casualty,1,0,urology,0,home
+661,60,F,GP,1,0,gen surg,0,home
+661,60,F,GP,1,0,gen surg,0,home
+662,72,M,casualty,1,0,gen surg,0,home
+663,22,F,casualty,1,0,gen medicine,0,home
+664,51,M,casualty,1,0,gen surg,0,home
+665,70,M,casualty,1,15,urology,ward 5,home
+666,21,F,GP,1,0,gen surg,0,home
+667,82,F,casualty,1,0,acute med,0,home
+668,21,F,casualty,1,0,gen medicine,0,home
+669,60,F,GP,1,2,gen surg,ward 8,home
+670,47,F,GP,1,0,acute med,0,home
+670,47,F,GP,1,0,acute med,0,home
+670,47,F,casualty,1,0,acute med,0,home
+671,21,F,casualty,1,0,resp,0,home
+672,21,F,casualty,1,0,gen surg,0,home
+673,21,M,GP,1,0,acute med,0,home
+674,21,F,GP,1,0,acute med,0,home
+675,38,F,other,1,0,gen surg,0,home
+676,23,F,GP,1,0,gen surg,ward 10,home
+678,49,M,casualty,1,0,gen surg,0,home
+679,87,M,other,1,0,gen surg,TRANSFER LOUNGE,home
+679,87,M,other,1,0,gen surg,TRANSFER LOUNGE,home
+680,59,M,other,1,0,gen surg,0,home
+680,59,M,casualty,1,0,gen surg,0,home
+680,59,M,GP,1,0,gen surg,0,home
+681,27,F,GP,1,0,gen surg,0,home
+682,21,F,casualty,1,0,acute med,0,home
+683,24,F,casualty,1,0,gen surg,0,home
+683,24,F,other,1,0,gen surg,0,home
+684,62,F,GP,1,1,gen surg,ward 8,home
+685,71,M,GP,1,0,acute med,0,home
+685,71,M,GP,1,0,acute med,0,home
+686,21,F,casualty,1,0,gen surg,0,home
+687,20,M,casualty,1,0,gen surg,0,home
+687,20,M,other,1,0,gen surg,0,home
+689,68,F,GP,1,0,acute med,0,home
+690,20,F,casualty,1,0,gen surg,0,home
+691,46,F,casualty,1,0,gen surg,0,home
+691,46,F,casualty,1,0,gen surg,0,home
+692,33,F,casualty,1,0,gen surg,0,home
+692,33,F,other,1,1,gen surg,ward 8,home
+693,75,F,other,1,0,vascular,TRANSFER LOUNGE,home
+693,75,F,other,1,0,vascular,TRANSFER LOUNGE,home
+694,53,F,GP,1,0,acute med,0,home
+695,32,F,GP,1,6,gen surg,ward 8,home
+696,47,F,GP,1,26,nephrology,ward 9,died
+697,79,F,casualty,1,4,acute med,TRANSFER LOUNGE,home
+698,35,F,casualty,1,0,gen surg,0,home
+698,35,F,casualty,1,0,gen surg,0,home
+699,71,F,GP,1,0,gen surg,0,home
+700,20,M,casualty,1,0,urology,0,home
+700,20,M,other,1,0,urology,0,home
+701,73,F,Domv,1,0,acute med,0,home
+701,73,F,GP,1,0,acute med,0,home
+701,73,F,GP,1,9,gen medicine,ward 5,home
+701,73,F,GP,1,7,urology,ward 5,home
+702,57,M,Clinic,1,4,gen medicine,surgical assessment,home
+703,97,F,casualty,1,3,acute med,day of surgery,same trust
+704,80,M,GP,1,0,acute med,0,home
+705,36,F,GP,1,0,gen surg,0,home
+706,68,M,casualty,1,0,urology,0,home
+707,20,F,casualty,1,2,ENT,0,home
+708,28,F,casualty,1,0,gen surg,0,home
+708,28,F,casualty,1,0,gen surg,0,home
+709,25,F,GP,1,0,gen surg,0,home
+710,53,F,GP,1,0,gen surg,0,home
+711,89,F,other,1,0,acute med,0,home
+712,71,M,casualty,1,3,gen surg,ward 5,home
+713,58,M,GP,1,0,resp,0,home
+714,73,F,casualty,1,5,acute med,TRANSFER LOUNGE,home
+715,19,M,other,1,0,resp,0,home
+716,20,F,GP,1,0,gen surg,0,home
+716,20,F,casualty,1,0,gen surg,0,home
+717,47,F,GP,1,0,gen surg,0,home
+717,47,F,GP,1,0,gen surg,0,home
+718,78,M,GP,1,0,acute med,0,home
+719,19,M,GP,1,0,gen surg,0,home
+719,19,M,GP,1,1,gen surg,ward 8,home
+720,78,F,casualty,1,2,acute med,TRANSFER LOUNGE,home
+721,50,F,GP,1,0,gen surg,0,home
+721,50,F,GP,1,0,gen surg,0,home
+722,70,M,GP,1,0,vascular,0,home
+723,38,F,casualty,1,3,acute med,day of surgery,home
+724,33,F,casualty,1,0,gen medicine,0,home
+724,33,F,GP,1,0,acute med,0,home
+725,71,F,other,1,11,gen surg,ward 8,home
+726,84,F,GP,1,12,nephrology,ward 9,died
+727,42,F,GP,1,5,gen medicine,day of surgery,home
+727,42,F,other,1,0,acute med,0,home
+728,52,M,casualty,1,0,acute med,0,home
+729,86,M,other,1,0,gen surg,0,home
+730,48,F,GP,1,0,gen surg,0,home
+731,71,M,GP,1,0,vascular,0,home
+732,18,F,casualty,1,1,urology,ward 5,home
+733,24,F,casualty,1,0,gen surg,0,home
+734,18,M,casualty,1,0,gen surg,0,home
+734,18,M,other,1,0,gen surg,0,home
+735,84,M,casualty,1,9,urology,ward 5,home
+736,53,M,GP,1,0,urology,0,home
+737,18,F,GP,1,0,gen surg,0,home
+737,18,F,GP,1,0,gen surg,0,home
+738,19,M,other,1,0,gen surg,ward 6,home
+739,24,M,GP,1,0,gen surg,0,home
+740,57,F,other,1,0,gen surg,0,home
+741,24,F,GP,1,0,gen surg,0,home
+741,24,F,GP,1,4,gen surg,celyn ward,home
+742,53,M,GP,1,0,acute med,ED observation,home
+743,59,F,GP,1,0,acute med,0,home
+744,78,M,casualty,1,0,gen medicine,TRANSFER LOUNGE,home
+745,61,M,casualty,1,0,acute med,TRANSFER LOUNGE,home
+746,76,M,casualty,1,0,gen surg,0,home
+746,76,M,other,1,0,gen surg,0,home
+746,76,M,GP,1,0,gen surg,0,home
+747,89,M,casualty,1,21,orthopaedics,acute medical unit,home
+748,54,F,GP,1,0,acute med,0,home
+748,54,F,other,1,0,acute med,0,home
+749,45,F,GP,1,0,gen surg,0,home
+750,51,F,GP,1,1,gen surg,0,home
+751,42,F,GP,1,3,endocrinology,ward 12,home
+752,72,M,GP,1,0,gen surg,0,home
+752,72,M,GP,1,0,gen surg,0,home
+752,72,M,casualty,1,0,gen surg,0,home
+753,66,F,GP,1,12,gen surg,ward 8,home
+754,74,F,other,1,0,acute med,0,home
+755,61,M,other,1,0,gen surg,0,home
+755,61,M,other,1,0,gen surg,0,home
+756,79,M,other,1,0,gen medicine,0,home
+756,79,M,GP,1,0,acute med,0,home
+757,74,M,other,1,35,vascular,ward 3,home
+758,34,F,GP,1,0,gen surg,0,home
+759,17,M,other,1,0,gen surg,0,home
+759,17,M,casualty,1,0,gen surg,0,home
+760,82,M,Domv,1,0,gen surg,0,home
+761,24,F,other,1,0,gen surg,0,home
+761,24,F,casualty,1,0,gen surg,0,home
+762,67,F,GP,1,3,gen surg,ward 5,home
+763,69,M,GP,1,0,urology,0,home
+764,35,F,GP,1,0,gen medicine,0,home
+765,71,M,other,1,0,acute med,0,home
+765,71,M,other,1,0,acute med,0,home
+766,45,F,GP,1,0,acute med,0,home
+767,57,F,casualty,1,0,gen surg,0,home
+768,82,M,casualty,1,34,gen medicine,ward 5,home
+769,84,M,casualty,1,1,gen surg,ward 8,home
+770,65,M,GP,1,0,gen surg,0,home
+771,76,M,casualty,1,23,acute med,ward 9,other NHS
+772,40,M,GP,1,0,gen surg,0,home
+772,40,M,GP,1,0,gen surg,0,home
+772,40,M,casualty,1,0,gen surg,0,home
+773,30,F,casualty,1,1,acute med,0,home
+773,30,F,casualty,1,1,acute med,0,home
+774,44,M,GP,1,0,acute med,0,home
+775,58,M,casualty,1,0,acute med,0,home
+776,72,M,other,1,0,acute med,0,home
+776,72,M,other,1,0,acute med,0,home
+777,50,M,casualty,1,0,acute med,0,home
+778,69,M,casualty,1,0,gen surg,0,home
+778,69,M,other,1,0,gen surg,0,home
+779,38,F,GP,1,0,acute med,0,home
+780,32,F,casualty,1,5,gen surg,ward 7,home
+781,86,M,GP,1,0,acute med,0,home
+782,90,F,GP,1,5,gen medicine,ward 4,home
+783,18,F,casualty,1,0,gen surg,0,home
+784,58,F,casualty,1,2,nephrology,ward 12,home
+785,80,F,GP,1,4,resp,ward 7,home
+786,82,F,GP,1,2,geriatric medicine,ward 1,home
+787,74,M,GP,1,3,gen surg,ward 8,home
+788,79,M,GP,1,0,gen surg,0,home
+788,79,M,GP,1,0,gen surg,0,home
+789,80,M,GP,1,0,acute med,0,home
+790,65,M,GP,1,23,vascular,TRANSFER LOUNGE,home
+790,65,M,GP,1,0,vascular,0,home
+791,39,M,GP,1,0,gen surg,0,home
+792,41,F,GP,1,0,acute med,0,home
+793,81,F,casualty,1,0,gen surg,0,home
+794,60,M,casualty,1,3,acute med,acute medical unit,home
+794,60,M,other,1,0,acute med,0,home
+795,66,F,casualty,1,0,gen surg,0,home
+795,66,F,other,1,0,gen surg,0,home
+796,83,F,casualty,1,0,gen medicine,0,home
+796,83,F,other,1,0,acute med,0,home
+797,46,M,GP,1,0,acute med,0,home
+798,69,F,GP,1,0,gen surg,0,home
+799,54,F,GP,1,0,resp,0,home
+800,39,F,GP,1,0,gen surg,0,home
+800,39,F,other,1,0,gen surg,0,home
+801,56,F,GP,1,0,gen surg,0,home
+802,31,F,casualty,1,0,acute med,0,home
+803,71,M,GP,1,0,gen surg,0,home
+804,69,F,GP,1,0,acute med,0,home
+805,83,M,Clinic,1,0,vascular,0,home
+806,75,F,GP,1,0,gen surg,0,home
+806,75,F,GP,1,0,gen surg,0,home
+807,33,F,casualty,1,0,gen surg,0,home
+807,33,F,GP,1,0,gen surg,0,home
+808,60,F,casualty,1,0,gen medicine,0,home
+809,70,F,GP,1,2,acute med,TRANSFER LOUNGE,home
+810,49,F,GP,1,1,acute med,day of surgery,home
+810,49,F,GP,1,0,acute med,0,home
+811,50,F,GP,1,9,acute med,day of surgery,home
+812,92,M,other,1,0,resp,TRANSFER LOUNGE,home
+813,77,M,GP,1,0,gen surg,0,home
+813,77,M,casualty,1,0,gen surg,0,home
+814,27,F,GP,1,0,acute med,0,home
+814,27,F,casualty,1,0,acute med,0,home
+815,33,M,GP,1,0,gen surg,0,home
+816,64,M,GP,1,2,urology,ward 6,home
+817,77,F,GP,1,0,acute med,0,home
+817,77,F,other,1,0,acute med,0,home
+818,31,F,other,1,0,urology,0,home
+819,84,M,GP,1,0,gen surg,0,home
+820,57,F,GP,1,0,gen surg,0,home
+820,57,F,GP,1,6,gen surg,ward 5,home
+821,74,F,casualty,1,3,vascular,ward 3,home
+822,61,M,other,1,0,gen surg,0,home
+823,59,M,casualty,1,0,gen surg,0,home
+824,78,F,GP,1,0,gen surg,0,home
+825,59,F,GP,1,0,acute med,0,home
+826,72,F,GP,1,0,resp,0,home
+827,52,M,GP,1,0,acute med,0,home
+827,52,M,other,1,0,acute med,0,home
+827,52,M,GP,1,17,gen medicine,day of surgery,home
+828,24,F,casualty,1,2,gen surg,surgical assessment,home
+828,24,F,GP,1,8,gen surg,ward 7,home
+828,24,F,other,1,0,gen surg,0,home
+829,34,F,other,1,0,gen surg,0,home
+830,54,M,casualty,1,0,gen medicine,0,home
+831,63,M,Clinic,1,0,gen surg,0,home
+832,29,F,GP,1,0,acute med,0,home
+833,63,F,GP,1,7,vascular,acute medical unit,home
+834,43,F,GP,1,0,acute med,0,home
+835,58,M,other,1,0,acute med,0,home
+836,41,F,casualty,1,0,gen surg,0,home
+837,60,M,GP,1,1,acute med,acute medical unit,home
+838,73,M,casualty,1,0,acute med,0,home
+839,48,F,GP,1,0,gen surg,0,home
+840,23,F,GP,1,0,gen surg,0,home
+841,69,M,casualty,1,0,gen medicine,0,home
+842,76,F,casualty,1,13,acute med,day of surgery,home
+843,79,M,casualty,1,0,gen surg,0,home
+844,41,M,GP,1,0,gen surg,0,home
+845,48,F,GP,1,0,gen surg,0,home
+846,54,F,GP,1,0,gen surg,0,home
+847,51,M,GP,1,0,vascular,0,home
+848,74,F,GP,1,23,vascular,ward 3,home
+849,62,F,casualty,1,2,gen medicine,ward 4,home
+850,76,M,GP,1,0,gen surg,0,home
+850,76,M,other,1,0,gen surg,0,home
+851,35,M,casualty,1,0,acute med,0,home
+852,59,M,casualty,1,2,gen surg,ward 8,home
+852,59,M,other,1,0,gen surg,0,home
+853,83,F,casualty,1,1,vascular,TRANSFER LOUNGE,same trust
+854,34,F,casualty,1,0,gen surg,0,home
+855,56,M,casualty,1,8,urology,ward 5,home
+856,45,M,casualty,1,0,acute med,0,home
+857,21,F,casualty,1,1,gen surg,celyn ward,home
+858,78,M,GP,1,0,vascular,0,home
+859,38,F,GP,1,0,gen surg,0,home
+860,30,M,GP,1,0,acute med,0,home
+861,43,F,GP,1,0,acute med,0,home
+862,21,F,casualty,1,1,gen medicine,0,home
+863,83,M,GP,1,0,gen surg,0,home
+864,25,F,GP,1,0,gen surg,0,home
+865,77,M,casualty,1,3,resp,ward 1,home
+866,38,F,GP,1,0,gen surg,0,home
+867,57,M,GP,1,0,gen surg,0,home
+867,57,M,other,1,0,gen surg,0,home
+868,86,M,GP,1,0,vascular,0,home
+868,86,M,casualty,1,32,vascular,ward 3,same trust
+869,83,F,casualty,1,3,acute med,TRANSFER LOUNGE,home
+870,58,M,GP,1,0,acute med,0,home
+871,61,M,casualty,1,0,gen surg,0,home
+871,61,M,other,1,0,gen surg,0,home
+872,85,M,casualty,1,0,acute med,0,home
+873,38,F,casualty,1,0,gen surg,0,home
+873,38,F,GP,1,4,gynaecology,celyn ward,home
+874,59,F,casualty,1,13,vascular,ward 5,home
+875,40,M,casualty,1,0,urology,0,home
+876,64,F,casualty,1,0,urology,0,home
+876,64,F,GP,1,0,gen surg,0,home
+877,27,M,casualty,1,0,acute med,0,home
+878,51,F,GP,1,2,gynaecology,celyn ward,home
+879,55,F,GP,1,35,gen surg,ward 7,non NHS
+880,66,M,GP,1,0,gen surg,0,home
+880,66,M,GP,1,0,gen surg,0,home
+881,34,M,casualty,1,0,gen surg,0,home
+882,71,M,GP,1,0,vascular,0,home
+883,18,M,casualty,1,0,urology,0,home
+884,51,F,casualty,1,0,gen surg,0,home
+885,74,M,GP,1,0,gen surg,0,home
+886,43,M,other,1,0,acute med,0,home
+887,39,F,GP,1,0,gen surg,0,home
+888,58,F,casualty,1,27,acute med,ward 11,home
+889,40,M,casualty,1,0,acute med,0,home
+889,40,M,casualty,1,0,acute med,0,home
+890,88,F,GP,1,38,vascular,ward 3,same trust
+891,52,M,GP,1,0,vascular,0,home
+892,52,F,GP,1,0,gen surg,0,home
+892,52,F,GP,1,0,gen surg,0,home
+893,52,M,other,1,0,gen surg,0,home
+893,52,M,other,1,0,gen surg,0,home
+894,49,F,casualty,1,0,gen surg,0,home
+895,45,F,GP,1,0,vascular,0,home
+896,72,M,casualty,1,0,gen surg,0,home
+897,57,F,GP,1,0,gen surg,0,home
+897,57,F,GP,1,0,gen surg,0,home
+898,49,F,GP,1,0,gen surg,0,home
+898,49,F,casualty,1,0,gen surg,0,home
+899,50,F,other,1,0,gen surg,0,home
+899,50,F,other,1,0,gen surg,0,home
+900,46,M,casualty,1,0,acute med,0,home
+901,24,F,casualty,1,0,gen surg,0,home
+901,24,F,casualty,1,0,gen surg,0,home
+902,45,M,casualty,1,0,urology,0,home
+903,47,F,casualty,1,0,gen surg,0,home
+904,72,F,GP,1,0,resp,0,home
+905,69,M,GP,1,0,vascular,0,home
+906,66,F,GP,1,0,gen surg,0,home
+907,34,F,casualty,1,0,gen surg,0,home
+908,35,F,casualty,1,0,gen surg,0,home
+909,81,M,casualty,1,8,resp,day of surgery,home
+910,25,M,GP,1,0,gen surg,0,home
+911,73,M,GP,1,9,urology,ward 7,home
+912,75,M,GP,1,0,vascular,0,home
+913,78,M,other,1,0,gen surg,0,home
+913,78,M,GP,1,0,gen surg,0,home
+913,78,M,GP,1,0,gen surg,0,home
+913,78,M,casualty,1,0,gen surg,0,home
+914,85,M,other,1,0,gen surg,0,home
+915,52,M,casualty,1,0,acute med,0,home
+916,57,M,GP,1,0,acute med,0,home
+917,76,M,GP,1,4,acute med,ward 5,home
+918,69,M,GP,1,0,gen surg,0,home
+918,69,M,GP,1,0,gen surg,0,home
+918,69,M,other,1,0,gen surg,0,home
+919,37,F,casualty,1,0,gen surg,0,home
+919,37,F,GP,1,0,gen surg,0,home
+920,36,F,casualty,1,5,gen surg,surgical assessment,home
+921,73,M,casualty,1,2,acute med,ward 2b,home
+922,69,M,GP,1,0,gen surg,0,home
+922,69,M,other,1,0,gen surg,0,home
+922,69,M,GP,1,1,gen surg,surgical assessment,home
+923,61,F,GP,1,0,gen surg,0,home
+924,37,F,GP,1,0,gen surg,0,home
+924,37,F,GP,1,0,gen surg,0,home
+925,77,M,other,1,0,vascular,0,home
+926,73,F,casualty,1,0,gen medicine,0,home
+927,75,F,GP,1,0,gen surg,0,home
+928,29,F,casualty,1,0,urology,0,home
+929,53,M,casualty,1,0,vascular,0,home
+929,53,M,other,1,0,vascular,0,home
+929,53,M,Clinic,1,0,vascular,ward 8,home
+930,83,F,GP,1,0,acute med,0,home
+930,83,F,GP,1,0,acute med,0,home
+931,76,M,GP,1,3,vascular,ward 3,home
+931,76,M,GP,1,41,vascular,ward 7,home
+932,50,M,GP,1,0,urology,0,home
+934,73,M,GP,1,0,acute med,0,home
+935,67,F,GP,1,0,acute med,0,home
+936,67,F,GP,1,0,resp,0,home
+936,67,F,other,1,0,acute med,0,home
+937,75,M,other,1,0,acute med,0,home
+937,75,M,other,1,0,acute med,0,home
+937,75,M,other,1,0,acute med,0,home
+937,75,M,casualty,1,0,gen medicine,0,home
+937,75,M,casualty,1,0,gen medicine,0,home
+937,75,M,GP,1,0,acute med,0,home
+937,75,M,GP,1,0,gen medicine,0,home
+937,75,M,other,1,0,gen medicine,0,home
+938,34,M,casualty,1,0,acute med,0,home
+938,34,M,GP,1,0,acute med,0,home
+939,68,M,casualty,1,0,urology,0,home
+940,64,M,casualty,1,4,gastroenterology,TRANSFER LOUNGE,home
+941,80,M,casualty,1,0,urology,0,home
+942,75,M,casualty,1,0,acute med,0,home
+943,64,F,casualty,1,0,orthopaedics,0,home
+944,71,M,casualty,1,1,acute med,day of surgery,home
+945,30,M,casualty,1,0,acute med,0,home
+946,56,F,GP,1,0,gen surg,0,home
+947,63,F,GP,1,0,acute med,0,home
+947,63,F,GP,1,0,acute med,0,home
+947,63,F,other,1,0,acute med,0,home
+948,59,M,GP,1,0,gen surg,0,home
+949,65,M,GP,1,0,gen surg,0,home
+950,68,M,GP,1,0,gen surg,0,home
+950,68,M,other,1,0,gen surg,0,home
+951,76,M,casualty,1,0,acute med,0,home
+952,71,M,GP,1,1,vascular,ward 3,home
+952,71,M,other,1,11,vascular,ward 8,home
+953,44,M,casualty,1,1,acute med,0,home
+954,39,F,GP,1,1,gen surg,surgical assessment,home
+955,43,M,GP,1,0,gen surg,0,home
+956,75,M,GP,1,0,gen surg,0,home
+957,83,M,GP,1,27,vascular,ward 3,same trust
+958,74,M,GP,1,0,vascular,0,home
+959,45,F,GP,1,0,acute med,0,home
+960,71,M,casualty,1,0,acute med,0,home
+961,60,F,casualty,1,10,geriatric medicine,ward 2a,home
+962,56,F,GP,1,0,gen surg,0,home
+962,56,F,casualty,1,0,gen surg,0,home
+963,78,M,other,1,0,vascular,0,home
+964,49,F,GP,1,0,gen surg,0,home
+965,50,F,other,1,0,gen surg,0,home
+965,50,F,GP,1,0,gen surg,0,home
+965,50,F,other,1,7,gen surg,ward 8,home
+966,73,F,GP,1,1,gen surg,TRANSFER LOUNGE,home
